@@ -1,0 +1,6 @@
+D:\phase 4\Day2\Assessment 2\AuthenticationLib\bin\Debug\AuthenticationLib.dll
+D:\phase 4\Day2\Assessment 2\AuthenticationLib\bin\Debug\AuthenticationLib.pdb
+D:\phase 4\Day2\Assessment 2\AuthenticationLib\obj\Debug\AuthenticationLib.csproj.AssemblyReference.cache
+D:\phase 4\Day2\Assessment 2\AuthenticationLib\obj\Debug\AuthenticationLib.csproj.CoreCompileInputs.cache
+D:\phase 4\Day2\Assessment 2\AuthenticationLib\obj\Debug\AuthenticationLib.dll
+D:\phase 4\Day2\Assessment 2\AuthenticationLib\obj\Debug\AuthenticationLib.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestAssesment2", "UnitTestAssesment2.csproj", "{3B27A3A6-D77A-460D-98EB-2A376542AA21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationLib", "..\AuthenticationLib\AuthenticationLib.csproj", "{5FEEB6F5-073B-4CB5-8A35-4F10CC24E8F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B27A3A6-D77A-460D-98EB-2A376542AA21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B27A3A6-D77A-460D-98EB-2A376542AA21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B27A3A6-D77A-460D-98EB-2A376542AA21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B27A3A6-D77A-460D-98EB-2A376542AA21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FEEB6F5-073B-4CB5-8A35-4F10CC24E8F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FEEB6F5-073B-4CB5-8A35-4F10CC24E8F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FEEB6F5-073B-4CB5-8A35-4F10CC24E8F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FEEB6F5-073B-4CB5-8A35-4F10CC24E8F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B6483EA-2269-47C1-AE0A-69F1FB35DD45}
+	EndGlobalSection
+EndGlobal
